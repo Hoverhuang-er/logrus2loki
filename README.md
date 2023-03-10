@@ -1,2 +1,1 @@
-# logrus-loki-hook
-Hook for logrus for Loki
+# logrus2hook
