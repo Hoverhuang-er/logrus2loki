@@ -1,4 +1,4 @@
-package hook
+package logrus2loki
 
 import (
 	"fmt"
